@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="ringColor" format="color"/>
+    <attr name="ringWidth" format="dimension"/>
+    <attr name="globColor" format="color"/>
+    <attr name="globRadius" format="dimension"/>
+    <attr name="cycleTime" format="float"/>
+    <declare-styleable name="AccelerateCircularView">
+        <attr name="ringColor"/>
+        <attr name="ringWidth"/>
+        <attr name="globColor"/>
+        <attr name="globRadius"/>
+        <attr name="cycleTime"/>
+    </declare-styleable>
+</resources>
